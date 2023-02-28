@@ -93,7 +93,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("https://picsum.photos/640/480");
+  background-image: url("1.jpg");
   z-index:2;
 }
 
@@ -104,20 +104,20 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("https://picsum.photos/960/520");
+  background-image: url("3.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 {
-  background-image: url("https://picsum.photos/960/400");
+  background-image: url("4.jpg");
   z-index:2;
 }
 
 #slide3:before {
-  background-image: url("https://picsum.photos/980/600");
+  background-image: url("5.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide4 {
-  background: #222;
+  background-image: url("6.jpg");
 }
